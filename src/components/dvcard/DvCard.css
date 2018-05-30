@@ -1,0 +1,10 @@
+.DvCard {
+    padding-top: 50px; 
+}
+
+.btn-dv {
+    background-color: rgb(0, 110, 255);
+    color: white !important;
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
